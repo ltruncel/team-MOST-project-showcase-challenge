@@ -5,6 +5,7 @@ Creating a recommendation report for the rice disease project, with the end goal
 
 # Participants
 (Slack Handle) @vigneshiwari @Shudipdo Trafder @LauraT @Ellyana Linden @risper bevalyn @Anna Scott @happycoder354
+(Github) 
 
 
 # Project Overview
